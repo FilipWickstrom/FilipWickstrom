@@ -1,15 +1,12 @@
-### ✨Hello friend✨
+## Hello friend! My name is Filip, but you can call me Flip
+### I'm a game programming student that is studying at BTH (university)
+* Big fan of games and have been playing since I was a little kid
 
-#My name is Filip Wickström, but you can also call me Flip for short.
-I am a game programming student that is studying at BTH (university)
-
-#Big fan of games and have been playing since I was a little kid
-
-#Programming languages
+### Programming languages
 * C++ (most used)
 * C (not as much)
 
-#Languages in general:
+### Languages in general
 * Swedish
 * English
 * Spanish (in progress, still learning)
