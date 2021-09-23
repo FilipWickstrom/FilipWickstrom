@@ -1,10 +1,25 @@
-### Hi there 👋
+### ✨Hello friend✨
+
+#My name is Filip Wickström, but you can also call me Flip for short.
+I am a game programming student that is studying at BTH (university) 👨‍🎓
+
+#Big fan of games and have been playing since I was a little kid
+
+#Programming languages
+* C++ (most used)
+* C (not as much)
+
+#Languages in general:
+* Swedish
+* English
+* Spanish (in progress, still learning)
 
 <!--
-**FilipWickstrom/FilipWickstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To add if needed?
+Favorite games?
+-->
 
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
