@@ -1,7 +1,7 @@
 ### ✨Hello friend✨
 
 #My name is Filip Wickström, but you can also call me Flip for short.
-I am a game programming student that is studying at BTH (university) 👨‍🎓
+I am a game programming student that is studying at BTH (university)
 
 #Big fan of games and have been playing since I was a little kid
 
