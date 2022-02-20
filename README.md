@@ -1,20 +1,22 @@
 ## Hello friend! My name is Filip, but you can call me Flip
-### I'm a game programming student that is studying at BTH (university)
-* Big fan of games and have been playing since I was a little kid
+### I'm a game programming student at Blekinge Institute of Technology in Sweden
+* I am a big fan of games and have been playing since I was a little kid :)
 
 ### Programming languages
-* C++ (most used)
-* C (not as much)
+* C++
+* C
+* C# : Trying to learn it at the moment 
 
-### Languages in general
-* Swedish
-* English
-* Spanish (in progress, still learning)
+### Some of my favorite games/franchises:
+* Overwatch
+* Bioshock
+* Life is Strange
+* Dying Light
+* Oxenfree
 
-<!--
-To add if needed?
-Favorite games?
--->
+📫 How to reach me: filip.wickstrom.99@gmail.com
+
+Portfolio: filipwickstrom.github.io
 
 <!--
 - 🔭 I’m currently working on ...
