@@ -1,22 +1,23 @@
-## Hello friend! My name is Filip, but you can call me Flip
-### I'm a game programming student at Blekinge Institute of Technology in Sweden
-* I am a big fan of games and have been playing since I was a little kid :)
+<p align="center">
+  <h3 align="center">Hello friend!</h3>
+</p>
+
+<p align="center">
+  My name is Filip, but you can call me Flip!
+</p>
+
+### GitHub Stats
+<!-- Many thanks anuraghazra for this amazing feature --> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FilipWickstrom&count_private=true&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="Flip's github stats" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipWickstrom&layout=compact&hide_border=true&theme=vision-friendly-dark" /></a> 
 
 ### Programming languages
 * C++
 * C
 * C# : Trying to learn it at the moment 
 
-### Some of my favorite games/franchises:
-* Overwatch
-* Bioshock
-* Life is Strange
-* Dying Light
-* Oxenfree
-
-📫 How to reach me: filip.wickstrom.99@gmail.com
-
-Portfolio: filipwickstrom.github.io
+### Learn more
+* Check out my [portfolio](https://filipwickstrom.github.io/)
 
 <!--
 - 🔭 I’m currently working on ...
