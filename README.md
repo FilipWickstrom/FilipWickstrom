@@ -12,12 +12,20 @@
 | ------------- | ------------- |
 
 ### Programming languages
+#### Most comfortable - preferable
 * C++
 * C
-* C# : Trying to learn it at the moment 
+
+#### Have been used - less knowledge
+* HTML + CSS
+* LUA
+* C#
+* JavaScript
 
 ### Learn more
-* Check out my [portfolio](https://filipwickstrom.github.io/)
+* Currently looking for a job within game development.
+* Check out my [portfolio](https://filipwickstrom.github.io/) for more info.
+
 
 <!--
 - 🔭 I’m currently working on ...
