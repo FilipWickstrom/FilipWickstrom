@@ -1,39 +1,50 @@
-<p align="center">
-  <h3 align="center">Hello friend!</h3>
-</p>
+<h1 align="center">
+  Hello friend!
+</h1>
 
 <p align="center">
   My name is Filip, but you can call me Flip!
 </p>
 
-### GitHub Stats
+<h2 align="center">
+  GitHub Stats
+</h2>
+
 <!-- Many thanks anuraghazra for this amazing feature --> 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FilipWickstrom&count_private=true&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="Flip's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipWickstrom&layout=compact&hide_border=true&theme=vision-friendly-dark" /></a> |
-| ------------- | ------------- |
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FilipWickstrom&count_private=true&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="Flip's github stats" /></a>
+</p>
 
-### Programming languages
-#### Most comfortable - preferable
-* C++
-* C
+<h2 align="center">
+  Programming languages
+</h2>
 
-#### Have been used - less knowledge
-* HTML + CSS
-* LUA
-* C#
-* JavaScript
+<h4 align="center">
+   Preferable
+</h4>
 
-### Learn more
-* Currently looking for a job within game development.
-* Check out my [portfolio](https://filipwickstrom.github.io/) for more info.
+<div align="center">
+  C++         <br/>
+</div>
 
+<h4 align="center">
+  Used before
+</h4>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  C           <br/>
+  Lua         <br/>
+  HTML        <br/>
+  CSS         <br/>
+  JavaScript  <br/>
+  C#          <br/>
+</div>
+
+<h2 align="center">
+  Learn more
+</h2>
+
+<div align="center">
+  Currently looking for a job within game development.                    <br/>
+  Check out my <a href="https://filipwickstrom.com/">portfolio</a> for more info.    <br/>
+</div>
