@@ -4,7 +4,8 @@
 
 <p align="center">
   My name is Filip, but you can call me Flip!<br>
-  I'm a graphics programmer from Sweden that is trying to be more active here on GitHub. 
+  I'm a graphics programmer from Sweden with a fulltime job.<br>
+  When I'm feeling it I work on <a href="https://github.com/RutanDev/RutanEngine">RutanEngine</a>
 </p> 
 
 <div align="center">
